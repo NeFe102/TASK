@@ -1,0 +1,40 @@
+{
+  "updated": "2026-09-21",
+  "notes": "用户提供教务系统截图；本批均为本学期已报名重修的挂科课程。",
+  "current_semester_registered": [
+    {
+      "id": 1,
+      "course_code": null,
+      "course_name": "大学英语 I",
+      "hours": "理论 (4.0)",
+      "nature": "必修",
+      "credits": 4.0,
+      "category": "通识通修课程",
+      "status": "本学期已报名重修",
+      "screenshot": "screenshots/大学英语I.jpg"
+    },
+    {
+      "id": 2,
+      "course_code": "105490",
+      "course_name": "计算机组成原理",
+      "hours": "理论(4.0)-实验(2.0)",
+      "nature": "必修",
+      "credits": 4,
+      "category": null,
+      "status": "本学期已报名重修",
+      "screenshot": "screenshots/计算机组成原理.jpg"
+    },
+    {
+      "id": 3,
+      "course_code": "1PL017",
+      "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "hours": "理论 (2.0)",
+      "nature": "必修",
+      "credits": 2,
+      "category": null,
+      "status": "本学期已报名重修",
+      "screenshot": "screenshots/毛概.jpg"
+    }
+  ],
+  "pending": []
+}
