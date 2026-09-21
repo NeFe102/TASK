@@ -64,6 +64,16 @@
     },
     {
       "id": 3,
+      "course_code": "105491",
+      "course_name": "操作系统原理",
+      "nature": "必修",
+      "credits": 3.5,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/操作系统原理.jpg"
+    },
+    {
+      "id": 4,
       "course_code": "105467",
       "course_name": "虚拟化与容器技术",
       "nature": "限选",
@@ -73,7 +83,7 @@
       "screenshot": "screenshots/虚拟化与容器技术_网络管理.jpg"
     },
     {
-      "id": 4,
+      "id": 5,
       "course_code": "105525",
       "course_name": "网络管理",
       "nature": "限选",
@@ -81,16 +91,6 @@
       "category": null,
       "status": "现在不能报名",
       "screenshot": "screenshots/虚拟化与容器技术_网络管理.jpg"
-    },
-    {
-      "id": 5,
-      "course_code": "105491",
-      "course_name": "操作系统原理",
-      "nature": "必修",
-      "credits": 3.5,
-      "category": null,
-      "status": "现在不能报名",
-      "screenshot": "screenshots/操作系统原理.jpg"
     },
     {
       "id": 6,
