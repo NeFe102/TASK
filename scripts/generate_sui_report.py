@@ -656,7 +656,10 @@ def build():
     story.append(p("文档生成日期：2026-09-21。不构成投资、法律或税务建议。", styles["small"]))
 
     doc.build(story, onFirstPage=header_footer, onLaterPages=header_footer)
+    ascii_copy = OUT_DIR / "SUI.pdf"
+    ascii_copy.write_bytes(PDF_PATH.read_bytes())
     print(f"Wrote {PDF_PATH}")
+    print(f"Wrote {ascii_copy}")
     return PDF_PATH
 
 

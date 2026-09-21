@@ -14,7 +14,8 @@ python3 scripts/generate_hype_report.py
 
 ## SUI
 
-[`reports/SUI现货持有与中长期到2美元困难度_2026-09-21.pdf`](reports/SUI现货持有与中长期到2美元困难度_2026-09-21.pdf)
+- [`reports/SUI.pdf`](reports/SUI.pdf)
+- [`reports/SUI现货持有与中长期到2美元困难度_2026-09-21.pdf`](reports/SUI现货持有与中长期到2美元困难度_2026-09-21.pdf)
 
 现货能不能持有、中长期到 2 美元的困难度、解锁与生态风险。
 
