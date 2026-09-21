@@ -1,0 +1,106 @@
+{
+  "updated": "2026-09-21",
+  "notes": "用户提供教务系统截图。主表已合并：上半本学期已报名，空一行后下半现在不能报名。大学英语 I 代码 1CE001；表中不含学时列。",
+  "summary": {
+    "registered_count": 3,
+    "registered_credits": 10,
+    "cannot_register_count": 6,
+    "cannot_register_credits": 13,
+    "total_count": 9,
+    "total_credits": 23
+  },
+  "current_semester_registered": [
+    {
+      "id": 1,
+      "course_code": "1CE001",
+      "course_name": "大学英语 I",
+      "nature": "必修",
+      "credits": 4.0,
+      "category": "通识通修课程",
+      "status": "本学期已报名重修",
+      "screenshot": "screenshots/大学英语I.jpg"
+    },
+    {
+      "id": 2,
+      "course_code": "105490",
+      "course_name": "计算机组成原理",
+      "nature": "必修",
+      "credits": 4.0,
+      "category": null,
+      "status": "本学期已报名重修",
+      "screenshot": "screenshots/计算机组成原理.jpg"
+    },
+    {
+      "id": 3,
+      "course_code": "1PL017",
+      "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+      "nature": "必修",
+      "credits": 2.0,
+      "category": null,
+      "status": "本学期已报名重修",
+      "screenshot": "screenshots/毛概.jpg"
+    }
+  ],
+  "cannot_register_now": [
+    {
+      "id": 1,
+      "course_code": "105473",
+      "course_name": "Python 编程语言",
+      "nature": "必修",
+      "credits": 1.0,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/Python编程语言.jpg"
+    },
+    {
+      "id": 2,
+      "course_code": "105362",
+      "course_name": "云计算技术",
+      "nature": "必修",
+      "credits": 2.5,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/云计算技术.jpg"
+    },
+    {
+      "id": 3,
+      "course_code": "105491",
+      "course_name": "操作系统原理",
+      "nature": "必修",
+      "credits": 3.5,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/操作系统原理.jpg"
+    },
+    {
+      "id": 4,
+      "course_code": "105467",
+      "course_name": "虚拟化与容器技术",
+      "nature": "限选",
+      "credits": 1.5,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/虚拟化与容器技术_网络管理.jpg"
+    },
+    {
+      "id": 5,
+      "course_code": "105525",
+      "course_name": "网络管理",
+      "nature": "限选",
+      "credits": 2.5,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/虚拟化与容器技术_网络管理.jpg"
+    },
+    {
+      "id": 6,
+      "course_code": "1CE026",
+      "course_name": "考研英语",
+      "nature": "必修",
+      "credits": 2.0,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/考研英语.jpg"
+    }
+  ]
+}

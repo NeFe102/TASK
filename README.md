@@ -1,4 +1,22 @@
-# HYPE 中长期研究备忘
+# TASK 工作区
+
+## 挂科与重修记录
+
+按教务系统截图整理的挂科 / 重修报名记录。
+
+**主文件：** [`records/failed-courses/挂科与重修记录.md`](records/failed-courses/挂科与重修记录.md)
+
+- 结构化数据：[`records/failed-courses/courses.json`](records/failed-courses/courses.json)
+- 截图证据：`records/failed-courses/screenshots/`
+
+当前已录入：
+
+- 本学期已报名重修：3 门（大学英语 I、计算机组成原理、毛概）
+- 现在不能报名：6 门（Python 编程语言、云计算技术、虚拟化与容器技术、网络管理、操作系统原理、考研英语）
+
+---
+
+## HYPE 中长期研究备忘
 
 按用户提供的交易所截图思路整理的独立研究文档，交叉验证公开信息后补充容易漏看的变量。
 
