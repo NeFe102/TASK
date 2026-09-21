@@ -92,11 +92,10 @@
       "course_name": "操作系统原理",
       "hours": "理论(4.0)-上机(4.0)",
       "nature": "必修",
-      "credits": 3,
+      "credits": 3.5,
       "category": null,
       "status": "现在不能报名",
-      "screenshot": "screenshots/操作系统原理.jpg",
-      "credits_note": "截图右侧学分显示为 3.，按 3 计"
+      "screenshot": "screenshots/操作系统原理.jpg"
     },
     {
       "id": 6,
