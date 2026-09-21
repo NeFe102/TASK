@@ -1,10 +1,13 @@
 {
   "updated": "2026-09-21",
-  "notes": "用户提供教务系统截图。分两类：本学期已报名重修；现在不能报名。",
+  "notes": "用户提供教务系统截图。主表已合并：上半本学期已报名，空一行后下半现在不能报名。操作系统原理学分为 3.5。",
   "summary": {
     "registered_count": 3,
+    "registered_credits": 10,
     "cannot_register_count": 6,
-    "total_count": 9
+    "cannot_register_credits": 13,
+    "total_count": 9,
+    "total_credits": 23
   },
   "current_semester_registered": [
     {
@@ -24,7 +27,7 @@
       "course_name": "计算机组成原理",
       "hours": "理论(4.0)-实验(2.0)",
       "nature": "必修",
-      "credits": 4,
+      "credits": 4.0,
       "category": null,
       "status": "本学期已报名重修",
       "screenshot": "screenshots/计算机组成原理.jpg"
@@ -35,7 +38,7 @@
       "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
       "hours": "理论 (2.0)",
       "nature": "必修",
-      "credits": 2,
+      "credits": 2.0,
       "category": null,
       "status": "本学期已报名重修",
       "screenshot": "screenshots/毛概.jpg"
