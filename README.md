@@ -9,7 +9,10 @@
 - 结构化数据：[`records/failed-courses/courses.json`](records/failed-courses/courses.json)
 - 截图证据：`records/failed-courses/screenshots/`
 
-当前已录入：本学期教务系统已报名的 3 门重修课（大学英语 I、计算机组成原理、毛概）。
+当前已录入：
+
+- 本学期已报名重修：3 门（大学英语 I、计算机组成原理、毛概）
+- 现在不能报名：6 门（Python 编程语言、云计算技术、虚拟化与容器技术、网络管理、操作系统原理、考研英语）
 
 ---
 

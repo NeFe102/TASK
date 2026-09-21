@@ -1,6 +1,11 @@
 {
   "updated": "2026-09-21",
-  "notes": "用户提供教务系统截图；本批均为本学期已报名重修的挂科课程。",
+  "notes": "用户提供教务系统截图。分两类：本学期已报名重修；现在不能报名。",
+  "summary": {
+    "registered_count": 3,
+    "cannot_register_count": 6,
+    "total_count": 9
+  },
   "current_semester_registered": [
     {
       "id": 1,
@@ -36,5 +41,73 @@
       "screenshot": "screenshots/毛概.jpg"
     }
   ],
-  "pending": []
+  "cannot_register_now": [
+    {
+      "id": 1,
+      "course_code": "105473",
+      "course_name": "Python 编程语言",
+      "hours": "理论(2.0)-上机(2.0)",
+      "nature": "必修",
+      "credits": 1.0,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/Python编程语言.jpg"
+    },
+    {
+      "id": 2,
+      "course_code": "105362",
+      "course_name": "云计算技术",
+      "hours": "理论(2.0)-上机(2.0)",
+      "nature": "必修",
+      "credits": 2.5,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/云计算技术.jpg"
+    },
+    {
+      "id": 3,
+      "course_code": "105467",
+      "course_name": "虚拟化与容器技术",
+      "hours": "理论(1.0)-上机(1.0)",
+      "nature": "限选",
+      "credits": 1.5,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/虚拟化与容器技术_网络管理.jpg"
+    },
+    {
+      "id": 4,
+      "course_code": "105525",
+      "course_name": "网络管理",
+      "hours": "理论(2.0)-上机(2.0)",
+      "nature": "限选",
+      "credits": 2.5,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/虚拟化与容器技术_网络管理.jpg"
+    },
+    {
+      "id": 5,
+      "course_code": "105491",
+      "course_name": "操作系统原理",
+      "hours": "理论(4.0)-上机(4.0)",
+      "nature": "必修",
+      "credits": 3,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/操作系统原理.jpg",
+      "credits_note": "截图右侧学分显示为 3.，按 3 计"
+    },
+    {
+      "id": 6,
+      "course_code": "1CE026",
+      "course_name": "考研英语",
+      "hours": "理论 (2.0)",
+      "nature": "必修",
+      "credits": 2.0,
+      "category": null,
+      "status": "现在不能报名",
+      "screenshot": "screenshots/考研英语.jpg"
+    }
+  ]
 }
